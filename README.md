@@ -45,6 +45,3 @@ The included sample dataset already contains columns like:
 - `grade`
 - `pass_fail`
 
-## Viva explanation
-
-This project predicts student performance using machine learning. First, the dataset is uploaded and explored with charts and summary statistics. Then the data is cleaned using imputation and outlier handling. After feature selection, the app trains models such as Linear Regression, Random Forest, SVR, Logistic Regression, and SVC. It uses train-test split, K-Fold validation, evaluation metrics, and optional hyperparameter tuning. Finally, the Streamlit dashboard gives a real-time prediction based on student input values.
