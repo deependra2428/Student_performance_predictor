@@ -1,0 +1,36 @@
+study_hours,attendance,previous_marks,sleep_hours,internet_usage_hours,parental_education,family_income_level,extracurricular_participation,gender,final_marks,grade,pass_fail
+2.0,62,48,5.5,5.0,High School,Low,No,Female,45,D,Pass
+3.5,70,54,6.0,4.5,High School,Medium,Yes,Male,56,C,Pass
+4.0,75,58,6.5,4.0,Graduate,Medium,Yes,Female,61,C,Pass
+5.0,82,64,7.0,3.5,Graduate,Medium,Yes,Male,69,B,Pass
+6.0,88,72,7.2,3.0,Postgraduate,High,Yes,Female,78,A,Pass
+1.5,58,42,5.0,6.0,High School,Low,No,Male,38,F,Fail
+2.5,65,50,5.8,5.2,High School,Low,No,Female,47,D,Pass
+3.0,68,52,6.2,4.8,Graduate,Medium,No,Male,53,C,Pass
+4.5,78,60,6.8,4.0,Graduate,Medium,Yes,Female,65,B,Pass
+5.5,85,68,7.1,3.4,Postgraduate,High,Yes,Male,74,B,Pass
+6.5,91,80,7.5,2.8,Postgraduate,High,Yes,Female,86,A,Pass
+7.0,94,84,7.8,2.5,Postgraduate,High,Yes,Male,90,A,Pass
+2.2,60,46,5.4,5.5,High School,Low,No,Female,41,F,Pass
+3.8,74,57,6.1,4.3,Graduate,Medium,Yes,Male,59,C,Pass
+4.8,79,63,6.7,3.9,Graduate,Medium,Yes,Female,67,B,Pass
+5.8,87,70,7.0,3.2,Postgraduate,High,Yes,Male,76,A,Pass
+6.2,89,74,7.4,2.9,Graduate,High,Yes,Female,81,A,Pass
+1.8,55,39,5.1,6.2,High School,Low,No,Male,34,F,Fail
+2.8,67,51,5.9,5.0,High School,Medium,No,Female,50,C,Pass
+3.2,71,56,6.3,4.6,Graduate,Medium,Yes,Male,57,C,Pass
+4.2,77,61,6.6,4.1,Graduate,Medium,Yes,Female,64,B,Pass
+5.2,83,66,6.9,3.7,Graduate,High,Yes,Male,72,B,Pass
+6.8,92,82,7.6,2.6,Postgraduate,High,Yes,Female,88,A,Pass
+7.5,96,88,8.0,2.1,Postgraduate,High,Yes,Male,94,A,Pass
+2.4,63,47,5.6,5.4,High School,Low,No,Female,44,D,Pass
+3.6,72,55,6.0,4.7,Graduate,Medium,Yes,Male,58,C,Pass
+4.6,80,62,6.8,3.8,Graduate,Medium,Yes,Female,68,B,Pass
+5.6,86,69,7.2,3.1,Postgraduate,High,Yes,Male,77,A,Pass
+6.1,90,75,7.3,2.7,Graduate,High,Yes,Female,82,A,Pass
+1.9,57,41,5.2,6.1,High School,Low,No,Male,36,F,Fail
+2.9,69,53,6.0,4.9,High School,Medium,No,Female,52,C,Pass
+4.1,76,59,6.5,4.2,Graduate,Medium,Yes,Male,63,B,Pass
+5.1,84,67,6.9,3.6,Graduate,High,Yes,Female,73,B,Pass
+6.3,93,79,7.7,2.4,Postgraduate,High,Yes,Male,87,A,Pass
+7.2,97,90,8.1,2.0,Postgraduate,High,Yes,Female,96,A,Pass
